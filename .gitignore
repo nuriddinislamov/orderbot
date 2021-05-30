@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .idea/
 .DS_Store
+api_token.py
 
 # C extensions
 *.so
